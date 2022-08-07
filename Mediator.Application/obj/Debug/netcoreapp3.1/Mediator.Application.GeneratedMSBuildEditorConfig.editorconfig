@@ -1,0 +1,4 @@
+is_global = true
+build_property.RefitInternalNamespace = Mediator.Application
+build_property.RootNamespace = Mediator.Application
+build_property.ProjectDir = C:\Users\Ronaldo\source\repos\MediatorR\Mediator.Application\

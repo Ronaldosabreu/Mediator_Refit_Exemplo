@@ -1,0 +1,4 @@
+is_global = true
+build_property.RefitInternalNamespace = Mediator.DTOs
+build_property.RootNamespace = Mediator.DTOs
+build_property.ProjectDir = C:\Users\Ronaldo\source\repos\MediatorR\Mediator.DTOs\
